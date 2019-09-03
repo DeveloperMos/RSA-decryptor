@@ -8,7 +8,7 @@ RSA Theory
 e = 65537
 
 N = key size
-q anp p, brutforced values.
+q anp p, bruteforced values.
 
 DEPENDENCES
 
